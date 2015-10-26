@@ -7,7 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "MFFSDelegateProtocol.h"
+#import <MFCore/MFFSDelegateProtocol.h>
 
 extern NSString *kENCFSRawPathKey;
 
